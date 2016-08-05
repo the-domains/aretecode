@@ -1,0 +1,14 @@
+layout_spectrum: 0.6628841343335807
+typography_spectrum: 0.6805340577848256
+color:
+  brandStrength: 0.07937565795145929
+  lightness: 0.06538140587508678
+  saturation: 0.6186493516433984
+  rhythmicContrast: 0.044619666412472725
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: aretecode
