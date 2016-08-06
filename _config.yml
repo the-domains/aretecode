@@ -12,3 +12,8 @@ color:
     - '#01B0F0'
     - '#AEEE00'
 name: aretecode
+opengraph:
+  type: The Grid Account
+  appId: '840505382734341'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e178433-7cc9-4f80-99ba-20d01d154c61.jpg
