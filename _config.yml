@@ -19,3 +19,8 @@ layout_spectrum: 0.6628841343335807
 analytics:
   facebook: '162108797552007'
 name: aretecode
+purpose:
+  - id: a27857af-3933-41bc-8c42-9653bca95342
+    type: phone
+    value: '2506505555'
+    label: '2506505555'
