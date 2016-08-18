@@ -19,4 +19,7 @@ layout_spectrum: 0.6628841343335807
 analytics:
   facebook: '162108797552007'
 name: aretecode
-purpose: []
+purpose:
+  - type: internal
+    label: aretecode github
+    item: e9689a98-12fd-48e7-a971-a23b85a57797
