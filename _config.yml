@@ -23,3 +23,6 @@ purpose:
   - type: internal
     label: aretecode github
     item: e9689a98-12fd-48e7-a971-a23b85a57797
+  - type: contact
+    url: 'mailto:aretecode@gmail.com'
+    label: aretecode@gmail.com
